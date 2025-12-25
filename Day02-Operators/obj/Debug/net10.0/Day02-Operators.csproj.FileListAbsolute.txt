@@ -1,0 +1,15 @@
+D:\Development\MyCSharpPractice\Day02-Operators\bin\Debug\net10.0\Day02-Operators.exe
+D:\Development\MyCSharpPractice\Day02-Operators\bin\Debug\net10.0\Day02-Operators.deps.json
+D:\Development\MyCSharpPractice\Day02-Operators\bin\Debug\net10.0\Day02-Operators.runtimeconfig.json
+D:\Development\MyCSharpPractice\Day02-Operators\bin\Debug\net10.0\Day02-Operators.dll
+D:\Development\MyCSharpPractice\Day02-Operators\bin\Debug\net10.0\Day02-Operators.pdb
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\Day02-Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\Day02-Operators.AssemblyInfoInputs.cache
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\Day02-Operators.AssemblyInfo.cs
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\Day02-Operators.csproj.CoreCompileInputs.cache
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\Day02-Operators.sourcelink.json
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\Day02-Operators.dll
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\refint\Day02-Operators.dll
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\Day02-Operators.pdb
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\Day02-Operators.genruntimeconfig.cache
+D:\Development\MyCSharpPractice\Day02-Operators\obj\Debug\net10.0\ref\Day02-Operators.dll
