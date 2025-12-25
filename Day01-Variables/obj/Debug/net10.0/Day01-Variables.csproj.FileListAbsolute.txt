@@ -1,0 +1,15 @@
+D:\Development\MyCSharpPractice\Day01-Variables\bin\Debug\net10.0\Day01-Variables.exe
+D:\Development\MyCSharpPractice\Day01-Variables\bin\Debug\net10.0\Day01-Variables.deps.json
+D:\Development\MyCSharpPractice\Day01-Variables\bin\Debug\net10.0\Day01-Variables.runtimeconfig.json
+D:\Development\MyCSharpPractice\Day01-Variables\bin\Debug\net10.0\Day01-Variables.dll
+D:\Development\MyCSharpPractice\Day01-Variables\bin\Debug\net10.0\Day01-Variables.pdb
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\Day01-Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\Day01-Variables.AssemblyInfoInputs.cache
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\Day01-Variables.AssemblyInfo.cs
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\Day01-Variables.csproj.CoreCompileInputs.cache
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\Day01-Variables.sourcelink.json
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\Day01-Variables.dll
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\refint\Day01-Variables.dll
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\Day01-Variables.pdb
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\Day01-Variables.genruntimeconfig.cache
+D:\Development\MyCSharpPractice\Day01-Variables\obj\Debug\net10.0\ref\Day01-Variables.dll
