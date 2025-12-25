@@ -1,18 +1,24 @@
-﻿using System;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
-        //Variables for a Person
-        string name="Uzair";
-        int myAge=33;
-        decimal salary=50000.75m;
-        bool isEmployed=true;
+        var myName = "Uzair";
+        var price=19.99;
+        const double Pi = 3.14159;
+        const int maxStudents = 50;
+        var radius = 5;
+        double area = Pi * radius * radius;
 
-        Console.WriteLine($"My Name is: {name}");
-        Console.WriteLine($"My Age is: {myAge}");
-        Console.WriteLine($"My Salary is: {salary}");
-        Console.WriteLine($"Am I Employed?: {isEmployed}");
+        Console.WriteLine($"My Name is {myName}");
+        Console.WriteLine($"The Price is {price}");
+        Console.WriteLine($"Pi Value is {Pi}");
+        Console.WriteLine($"Max Students Are {maxStudents}");
+        Console.WriteLine($"Radius is {radius}");
+        Console.WriteLine($"Area Is {area}");
+
+        Console.WriteLine("");
+        Console.WriteLine($"myName type: {myName.GetType()}");
+        Console.WriteLine($"price type: {price.GetType()}");
+        Console.WriteLine($"radius type: {radius.GetType()}");
     }
 }
